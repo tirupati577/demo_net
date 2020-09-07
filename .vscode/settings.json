@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp3.1\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/465aae0b-8765-4e0e-84aa-e87d57417456/resourceGroups/RG-DEV/providers/Microsoft.Web/sites/Demonetex"
+}
